@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/add"/>
+
+    <item
+        android:id="@+id/exp"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/export"/>
+
+    <item
+        android:id="@+id/imp"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/inport"/>
+    
+    <item
+        android:id="@+id/changePassword"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/changePass"/>
+        
+    <item
+        android:id="@+id/info"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/info"/>
+    
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/exit"/>
+    
+</menu>

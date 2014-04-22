@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Password Keeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="slogan">store your passwords simply!</string>
+    <string name="enter">enter</string>
+    <string name="OldPass">Old Password</string>
+    <string name="NewPass">New Password</string>
+    <string name="Pass">Password</string>
+    <string name="confPass">Confirm Password</string>
+    <string name="noPass">Passwords do not match</string>
+    <string name="regPass">Register the new Password</string>
+    <string name="lenPass">the minimum password length is 4 characters</string>
+    <string name="credits">This App is created by Giovanni Fasino</string>
+    <string name="fatalErr">Fatal Error</string>
+    <string name="errPass">wrong password</string>
+    <string name="add">add</string>
+    <string name="exit">exit</string>
+    <string name="modify">modify</string>
+    <string name="remove">remove</string>
+    <string name="info">information</string>
+    <string name="inport">import</string>
+    <string name="export">export</string>
+    <string name="service">service</string>
+    <string name="username">username</string>
+    <string name="save">save</string>
+    <string name="Ok">OK</string>
+    <string name="New">New</string>
+    <string name="changePass">change password</string>
+    <string name="fieldM">required fields are not completed</string>
+    <string name="title_activity_registration">Password Keeper</string>
+    <string name="title_activity_data">Password Keeper</string>
+    <string name="title_activity_edit">Password Keeper</string>
+    <string name="funcNotAv">function Not Aviable</string>
+    <string name="title_activity_export">Export</string>
+    <string name="title_activity_change_password">Change Password</string>
+    <string name="title_activity_import_pass">Import</string>
+    <string name="importDescription">import passwords by a text file</string>
+    <string name="exportDescription">export passwords in a text file\nthe file is located in keepPassword/password.txt</string>
+    <string name="isEncrypted">is encrypted</string>
+    <string name="chooseFile">Choose a file</string>
+    <string name="loadFile">Load the file</string>
+    <string name="isValid">the file is valid</string>
+    <string name="notValid">the file is not valid</string>
+    <string name="usePassword">use password to protect data</string>
+    <string name="completed">completed</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exportEncAlert">The file will be exported, if you forget the password you won\'t be able to open the file, do you want to proceed?</string>
+    <string name="exportClearAlert">The file will be exported, the passwords won\'t be encrypted, do you want to proceed?</string>
+    <string name="emptyData">Empty - Tap to add</string>
+    <string name="preview">Preview</string>
+    <string name="Encrypted">encrypted</string>
+    <string name="Decrypt">Decrypt</string>
+    <string name="title_activity_setting">SettingActivity</string>
+
+</resources>

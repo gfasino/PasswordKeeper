@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Password Keeper</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="hello_world">Ciao Mondo!</string>
+    <string name="enter">entra</string>
+    <string name="OldPass">Vecchia Password</string>
+    <string name="NewPass">Nuova Password</string>
+    <string name="Pass">Password</string>
+    <string name="confPass">Conferma Password</string>
+    <string name="noPass">Le password non corrispondono</string>
+    <string name="regPass">Registra la nuova password</string>
+    <string name="lenPass">La lunghezza minima e\' di 4 caratteri</string>
+    <string name="credits">Quest\' app e\' stata creata da Giovanni Fasino</string>
+    <string name="fatalErr">Fatal Error</string>
+    <string name="errPass">password errata</string>
+    <string name="add">aggiungi</string>
+    <string name="exit">esci</string>
+    <string name="modify">modifica</string>
+    <string name="remove">rimuovi</string>
+    <string name="info">informazioni</string>
+    <string name="inport">importa</string>
+    <string name="export">esporta</string>
+    <string name="service">servizi</string>
+    <string name="username">username</string>
+    <string name="save">salva</string>
+    <string name="Ok">OK</string>
+    <string name="New">Nuovo</string>
+    <string name="changePass">cambia password</string>
+    <string name="fieldM">i campi richiesti non sono stati completati</string>
+    <string name="title_activity_registration">Password Keeper</string>
+    <string name="title_activity_data">Password Keeper</string>
+    <string name="title_activity_edit">Password Keeper</string>
+    <string name="funcNotAv">funzione non disponibile</string>
+<string name="title_activity_export">Esporta</string>
+    <string name="title_activity_change_password">Cambia Password</string>
+    <string name="title_activity_import_pass">Importa</string>
+    <string name="importDescription">importa le passwords da un file di testo</string>
+    <string name="exportDescription">esporta le passwords in un file di testo\nil file e\' posizionato in keepPassword/password.txt</string>
+    <string name="isEncrypted">E\' criptato</string>
+    <string name="chooseFile">Scegli un file</string>
+    <string name="loadFile">Carica il file</string>
+    <string name="isValid">il file e\' valido</string>
+    <string name="notValid">il file non e\' valido</string>
+    <string name="usePassword">usa una password per proteggere i dati</string>
+    <string name="completed">completato</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="exportEncAlert">Il file sara\' esportato, se dimenticherai la password non sarai piu\' in grado di aprire il file, vuoi procedere?</string>
+    <string name="exportClearAlert">Il file sara\' esportato, le passwords non saranno criptate, vuoi procedere?</string>
+    <string name="emptyData">Vuoto - Tocca per aggiungere</string>
+    <string name="preview">Anteprima</string>
+    <string name="Encrypted">criptato</string>
+	<string name="Decrypt">Decripta</string>
+</resources>
